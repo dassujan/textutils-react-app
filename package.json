@@ -1,6 +1,6 @@
 {
-  "homepage": "https://dassujan.github.io/TextUtils-React-App",
-  "name": "textutils",
+  "homepage": "https://dassujan.github.io/textutils-react-app",
+  "name": "textutils-react-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
